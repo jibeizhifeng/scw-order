@@ -21,6 +21,6 @@ public class ScwOrderApplication {
 	}
 
 	
-	
+	public void test2() {}
 	
 }
